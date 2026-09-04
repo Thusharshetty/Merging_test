@@ -1,5 +1,3 @@
-// testing the app.js file
+// testing the app.js file-button
 console.log("App is running!"); 
 
-// You can add more functionality to this file as needed
-console.log("Add button clicked!");
